@@ -1,3 +1,5 @@
+//новый коментарий
+
 #include <io.h>
 #include <interrupt.h>
 #include "avrlibdefs.h"
