@@ -35,7 +35,7 @@
 #define udoton cbi (PORTC,7) 
 #define ddotoff sbi (PORTA,7)
 #define udotoff sbi (PORTC,7)
-//new_branch comment1
+//new_branch comment2
 
 const float Vref=4.99; // опорное напряжение АЦП
 //коэффициенты деления для соотв. каналов АЦП
